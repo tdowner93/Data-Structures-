@@ -114,6 +114,24 @@ Machine Learning 2 (Spaceship Titanic) - https://colab.research.google.com/drive
 
 This notebook is modified from https://www.kaggle.com/alexisbcook/titanic-tutorial and https://www.kaggle.com/code/jorgeromn/spaceship-titanic-with-random-forest”
 
+# Linked Lists 
+https://colab.research.google.com/drive/1e9GaxU8x1EMcUCwMEZTHbdXKQLv2VMWn?usp=sharing – you want to say “Modified by Ronald
+
+# Linear & Binary Scans 
+“Developed by Brock Skelton from the pseudocode in: https://colab.research.google.com/drive/1zPVXgfmd-DfVIk0rgqAG2IgCnu5xU2kx
+Kubica, J. (2020). Data structures the fun way: An amusing introduction to data structures. No Starch Press.”
+
+# Binary Tree 
+https://colab.research.google.com/drive/1vML7tYTTgQyibEpihCtUaZHxjcn43824 “Developed by Brock Skelton from the pseudocode in:
+
+# Machine Learning 1 (Titanic) – I emailed you this file – you want to say
+
+“Kaggle runs a machine learning competition on the Titanic data: https://www.kaggle.com/competitions/titanic
+This notebook is from Alexis Cook's Titanic Tutorial page: https://www.kaggle.com/alexisbcook/titanic-tutorial”
+
+# Heaps - 
+I emailed you this file – you want to say “Developed by Brock Skelton from the pseudocode in:
+Kubica, J. (2020). Data structures the fun way: An amusing introduction to data structures. No Starch Press.”
 
 
 
