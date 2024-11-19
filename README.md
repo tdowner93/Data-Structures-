@@ -115,22 +115,23 @@ Machine Learning 2 (Spaceship Titanic) - https://colab.research.google.com/drive
 This notebook is modified from https://www.kaggle.com/alexisbcook/titanic-tutorial and https://www.kaggle.com/code/jorgeromn/spaceship-titanic-with-random-forest”
 
 # Linked Lists 
-https://colab.research.google.com/drive/1e9GaxU8x1EMcUCwMEZTHbdXKQLv2VMWn?usp=sharing – you want to say “Modified by Ronald
+https://colab.research.google.com/drive/1e9GaxU8x1EMcUCwMEZTHbdXKQLv2VMWn “Modified by Ronald"
 
-# Linear & Binary Scans 
-“Developed by Brock Skelton from the pseudocode in: https://colab.research.google.com/drive/1zPVXgfmd-DfVIk0rgqAG2IgCnu5xU2kx
+# Linear & Binary Scans
+https://colab.research.google.com/drive/1zPVXgfmd-DfVIk0rgqAG2IgCnu5xU2kx “Developed by Brock Skelton from the pseudocode in
 Kubica, J. (2020). Data structures the fun way: An amusing introduction to data structures. No Starch Press.”
 
 # Binary Tree 
-https://colab.research.google.com/drive/1vML7tYTTgQyibEpihCtUaZHxjcn43824 “Developed by Brock Skelton from the pseudocode in:
+https://colab.research.google.com/drive/1vML7tYTTgQyibEpihCtUaZHxjcn43824 “Developed by Brock Skelton from the pseudocode in: 
+Kubica, J. (2020). Data structures the fun way: An amusing introduction to data structures. No Starch Press.”
 
-# Machine Learning 1 (Titanic) – I emailed you this file – you want to say
-
+# Machine Learning 1 (Titanic) 
+https://colab.research.google.com/drive/1TWkLx8y4ZKy4bg2LutZjaM17iIaozRdf?usp=sharing
 “Kaggle runs a machine learning competition on the Titanic data: https://www.kaggle.com/competitions/titanic
 This notebook is from Alexis Cook's Titanic Tutorial page: https://www.kaggle.com/alexisbcook/titanic-tutorial”
 
-# Heaps - 
-I emailed you this file – you want to say “Developed by Brock Skelton from the pseudocode in:
+# Heaps 
+https://github.com/bedrockskeleton/data-structures/blob/main/Heap.ipynb “Developed by Brock Skelton from the pseudocode in:
 Kubica, J. (2020). Data structures the fun way: An amusing introduction to data structures. No Starch Press.”
 
 
